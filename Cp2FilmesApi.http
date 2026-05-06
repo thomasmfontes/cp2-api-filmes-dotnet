@@ -1,0 +1,6 @@
+@Cp2FilmesApi_HostAddress = http://localhost:5241
+
+GET {{Cp2FilmesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
