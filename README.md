@@ -25,7 +25,7 @@ A API permite o gerenciamento de filmes e avaliações, oferecendo operações c
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/thomasmfontes/cp2-api-filmes-dotnet.git
 ```
 
 ### 2. Entrar na pasta do projeto
@@ -52,7 +52,7 @@ Preencher a connection string:
 
 ```json
 "ConnectionStrings": {
-  "OracleConnection": "User Id=rm562254;Password=280406;Data Source=oracle.fiap.com.br:1521/ORCL;"
+  "OracleConnection": "CONFIGURAR_CONNECTION_STRING_AQUI"
 }
 ```
 
