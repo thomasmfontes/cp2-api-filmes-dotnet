@@ -178,4 +178,8 @@ appsettings.json
 
 ## Integrantes
 
+- Vitória Rodrigues Martins - RM: 565160
+- Augusto Bonomo Júnior - RM: 565155
 - Thomas Mineu Fontes - RM: 562254
+- Gabriel Maciel - RM: 562795
+- Matheus Pereira Molina - RM: 563399
